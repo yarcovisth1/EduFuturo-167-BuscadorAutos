@@ -1,0 +1,8 @@
+Para ver graficamente la solucion es necesario seguir los siguientes pasos:
+
+1-Guardar sin expension cada archivo.
+2-Utilizar bloc de nota.
+3-Cargar los archivos en ondriver del correo.
+4-Abrir el contenido conl el programa (drawio)
+
+Nota: De esta forma se podra visulizar la informacion.  
